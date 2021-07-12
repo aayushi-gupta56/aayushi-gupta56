@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @aayushi-gupta56
-- 👀 I’m interested in ...
-I am intrested in Full Stack Development, Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning ...
-Front end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ayushi Gupta
+- 👀 I’m interested in ...Full Stack Development, Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning ...Javascript algorithms and frameworks
+- 📫 How to reach me ...Email - aaaayushi85@gmail.com
+- Other thing I am really passionate about is writing.
 
 <!---
 aayushi-gupta56/aayushi-gupta56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
